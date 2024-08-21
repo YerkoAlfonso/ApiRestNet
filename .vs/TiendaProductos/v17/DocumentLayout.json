@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|d:\\proyectospersonales\\.net\\tienda\\tiendaproductos\\tiendaproductos\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444B31E-91AC-4D01-9103-C0B8B1779B51}|TiendaProductos\\TiendaProductos.csproj|solutionrelative:tiendaproductos\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "TiendaProductos\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "TiendaProductos\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:54:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "TiendaProductos\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "TiendaProductos\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:48:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaProductos\\Program.cs",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Program.cs",
+              "RelativeToolTip": "TiendaProductos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:40:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\appsettings.json",
+              "RelativeDocumentMoniker": "TiendaProductos\\appsettings.json",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\appsettings.json",
+              "RelativeToolTip": "TiendaProductos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T20:37:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TiendaProductos\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TiendaProductos\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:33:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "TiendaProductos\\Models\\DetalleVenta.cs",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "TiendaProductos\\Models\\DetalleVenta.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:32:43.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "TiendaProductos\\Models\\Venta.cs",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Models\\Venta.cs",
+              "RelativeToolTip": "TiendaProductos\\Models\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:32:10.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "TiendaProductos\\Models\\Cliente.cs",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Models\\Cliente.cs",
+              "RelativeToolTip": "TiendaProductos\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:31:49.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "TiendaProductos\\Models\\Producto.cs",
+              "ToolTip": "D:\\ProyectosPersonales\\.NET\\Tienda\\TiendaProductos\\TiendaProductos\\Models\\Producto.cs",
+              "RelativeToolTip": "TiendaProductos\\Models\\Producto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:31:08.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
